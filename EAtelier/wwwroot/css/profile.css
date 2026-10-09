@@ -1,0 +1,18 @@
+﻿.profile-description .profile-contact {
+    position: static;
+    margin-top: 24px;
+    font-size: 14px;
+}
+
+.profile-contact p {
+    margin-bottom: 8px;
+}
+
+.profile-contact a {
+    color: #555;
+    text-decoration: none;
+}
+
+    .profile-contact a:hover {
+        text-decoration: underline;
+    }

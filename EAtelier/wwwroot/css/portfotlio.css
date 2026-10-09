@@ -1,0 +1,79 @@
+﻿.portfolio-title {
+    text-align: center;
+    margin-bottom:50px;
+}
+
+.cooie {
+    width: 200px;
+    height: auto;
+    margin: 10px 20px 30px 40px;
+}
+.huedhands {
+    width: 200px;
+    height: auto;
+    margin: 10px 20px 30px 40px;
+}
+.hrshrs {
+    width: 200px;
+    height: auto;
+    margin: 10px 20px 30px 40px;
+}
+
+.fleurdebleu {
+    width: 200px;
+    height: auto;
+    margin: 10px 20px 30px 40px;
+}
+
+.portfolio-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin-bottom: 60px;
+}
+
+.portfolio-item .huedhands {
+        width: 200px;
+        height: auto;
+        margin: 0;
+        flex-shrink: 0;
+}
+
+.portfolio-description {
+    flex: 1;
+}
+
+.portfolio-description h4 {
+        margin-top: 0;
+}
+
+.portfolio-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin-bottom: 60px;
+}
+
+  
+    .portfolio-item .huedhands,
+    .portfolio-item .hrshrs,
+    .portfolio-item .cooie,
+    .portfolio-item .fleurdebleu {
+        width: 200px;
+        height: auto;
+        margin: 0;
+        flex-shrink: 0;
+    }
+
+.portfolio-description {
+    flex: 1;
+}
+
+    .portfolio-description h4 {
+        margin-top: 0;
+    }
+
+.c1 {
+    font-size:12px;
+    opacity: 60%;
+}
